@@ -1,0 +1,8 @@
+https://script.google.com/a/macros/advantedgetooling.com/s/AKfycbzKjQhsxl9K5_ghqF3AFDLufhfR0SZr_I-n8iGSjmo/dev?userEmail=test@advantagetooling.com
+
+Test Api Key:  AIzaSyBdJUFTj4tuQysOaiFwlo73PWhK59f8n3A 
+
+Test OATH:
+
+	Client ID:  829710692515-un86n38lssrt21b3qq7tg5mkq2qhq1lf.apps.googleusercontent.com 
+	Secret:  eO5pvLPkqvCYgEkZq8C673Ni 
